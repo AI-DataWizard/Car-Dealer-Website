@@ -1,6 +1,6 @@
 @font-face {
   font-family: font;
-  src: url("/fonts/Poppins/Poppins-Medium.ttf");
+  src: url("/Car-Dealer-Website/fonts/Poppins/Poppins-Medium.ttf");
 }
 * {
   font-family: font;
@@ -400,7 +400,7 @@ input[type=number]::-webkit-outer-spin-button {
 .newsletter {
   padding: 6rem 2rem;
   text-align: center;
-  background: url("/assets/autosphere-newsletterbg.jpg") no-repeat;
+  background: url("/Car-Dealer-Website/assets/autosphere-newsletterbg.jpg") no-repeat;
   background-position: center;
   background-size: cover;
 }
